@@ -10,4 +10,4 @@ I'm Eric Li, aka EL-MTN.
 
 [![EL-MTN's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ELMTN)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMTN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-MTN)](https://github.com/anuraghazra/github-readme-stats)
