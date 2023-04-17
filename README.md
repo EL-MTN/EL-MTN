@@ -1,5 +1,5 @@
 # Greetings
-I'm Eric Li, aka EL-MTN.
+I'm Eric Li, aka EL-MTN. Please take a visit to [my website](ericlmtn.vercel.app) :)
 
 ![](https://img.shields.io/badge/OS-Darwin-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TS-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
