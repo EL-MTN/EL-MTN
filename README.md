@@ -1,6 +1,6 @@
 # Eric Li
 
-CS '29 @ UNC Chapel Hill | Currently @ TikTok | prev. Toshiba & Alibaba
+CS '27 @ UNC Chapel Hill | Currently @ TikTok | prev. Toshiba & Alibaba
 
 Full-stack dev who codes too little and sleeps too much. And yes — the daily commits are real.
 
