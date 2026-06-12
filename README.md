@@ -1,8 +1,8 @@
 # Eric Li
 
-CS '29 @ UNC Chapel Hill | SWE Intern @ Toshiba Global Commerce Solutions | ex-Alibaba
+CS '29 @ UNC Chapel Hill | Currently @ TikTok | prev. Toshiba & Alibaba
 
-Full-stack dev who codes too little and sleeps too much.
+Full-stack dev who codes too little and sleeps too much. And yes — the daily commits are real.
 
 [Website](https://ericli.tech) | [LinkedIn](https://www.linkedin.com/in/ericlmtn/) | [Email](mailto:ericlmtn@gmail.com)
 
